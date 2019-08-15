@@ -7,6 +7,11 @@ import About from './components/pages/About';
 import uuid from 'uuid';
 import './App.css';
 
+/*
+Author: Prachi Kapadia
+Date: August 14, 2019
+*/
+
 class App extends Component {
 
   state = {
